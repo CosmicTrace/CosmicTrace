@@ -6,4 +6,4 @@ An software development engineer specializing in utilizing RPA and AI to automat
 
   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicTrace)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicTrace&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
