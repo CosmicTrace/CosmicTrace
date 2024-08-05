@@ -1,4 +1,4 @@
-<img src="./Github about.png">
+<img src="https://github.com/CosmicTrace/CosmicTrace/blob/main/about.png">
 
 An software development engineer specializing in utilizing RPA and AI to automate projects within smart industrial parks, smart construction sites, governmental systems, and data governance.
 
